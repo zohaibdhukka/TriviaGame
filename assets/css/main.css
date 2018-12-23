@@ -1,0 +1,55 @@
+body{
+    
+    background-color: #0085cc;
+    background-image: url("https://www.transparenttextures.com/patterns/argyle.png");
+}
+
+.box{
+    background-color: #002411;
+    background-image: url("https://www.transparenttextures.com/patterns/xv.png");
+    color: whitesmoke;
+    margin-top:15%;
+    padding:10%;   
+}
+
+h1{
+    font-family: 'Permanent Marker', cursive!important;
+    text-align: center;
+    
+}
+
+#button{
+    font-family: 'Permanent Marker', cursive!important;
+    text-align: center;
+    margin:2% 30% 0% 30%;
+    border: 4px solid rosybrown;
+    border-radius: 10px;
+    background: yellowgreen;
+    
+    
+}
+#submit{
+    font-family: 'Permanent Marker', cursive!important;
+    text-align: center;
+    margin:2% 30% 0% 30%;
+    border: 4px solid rosybrown;
+    border-radius: 10px;
+    background: yellowgreen;
+    
+    
+}
+
+#form{
+    display: none;
+    padding-top: 3%; 
+    text-align: center;
+}
+
+b{
+    font-size: 18px;
+    color: bisque;
+}
+#final{
+    display: none;
+    text-align: center;
+}
